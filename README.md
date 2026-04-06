@@ -11,6 +11,7 @@ A list of the built-in objects and methods you used
 - innerHTML
 
 Your GitHub Pages link
+https://keanoaquino.github.io/comp484-hw9-main/
 
 Path to a screenshot file of the finished webpage
 hw9-screenshot.png
