@@ -14,7 +14,7 @@ Your GitHub Pages link
 https://keanoaquino.github.io/comp484-hw9-main/
 
 Path to a screenshot file of the finished webpage
-hw9-screenshot.png
+- hw9-screenshot.png
 
 A short reflection of 4-5 sentences that answers:
 
